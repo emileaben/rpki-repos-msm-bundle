@@ -1,0 +1,41 @@
+{
+ "definitions": [
+  {
+   "target": "TODO",
+   "interval": 3600,
+   "spread": 3600,
+   "af": 4,
+   "timeout": 4000,
+   "description": "Traceroute measurement",
+   "protocol": "TCP",
+   "resolve_on_probe": true,
+   "packets": 3,
+   "size": 0,
+   "first_hop": 255,
+   "max_hops": 255,
+   "port": "TODO",
+   "paris": 1,
+   "tags": [
+      "rpki-repositories-bundle"
+   ],
+   "destination_option_size": 0,
+   "hop_by_hop_option_size": 0,
+   "dont_fragment": false,
+   "skip_dns_check": false,
+   "type": "traceroute"
+  }
+ ],
+ "probes": [
+  {
+   "type": "area",
+   "value": "WW",
+   "requested": -1,
+   "tags": {
+    "include": [
+     "system-anchor"
+    ],
+    "exclude": []
+   }
+  }
+ ]
+}
