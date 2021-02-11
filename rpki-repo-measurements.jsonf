@@ -86,3 +86,7 @@
 {"hostname": "rrdp.rpki.nlnetlabs.nl", "port": 443, "af": 4, "action": "started", "ts": 1609521553, "msm_id": 28478879}
 {"hostname": "rrdp.rpki.nlnetlabs.nl", "port": 443, "af": 6, "action": "started", "ts": 1609521553, "msm_id": 28478880}
 {"hostname": "rrdp.twnic.tw", "port": 443, "af": 4, "action": "started", "ts": 1609521556, "msm_id": 28478882}
+{"hostname": "krill-eval-ctec.charter.com", "port": 443, "af": 4, "action": "started", "ts": 1613024034, "msm_id": 29091374}
+{"hostname": "krill-eval-ctec.charter.com", "port": 443, "af": 6, "action": "started", "ts": 1613024034, "msm_id": 29091375}
+{"hostname": "krill-eval-ctec.charter.com", "port": 873, "af": 4, "action": "started", "ts": 1613024035, "msm_id": 29091376}
+{"hostname": "krill-eval-ctec.charter.com", "port": 873, "af": 6, "action": "started", "ts": 1613024036, "msm_id": 29091377}
