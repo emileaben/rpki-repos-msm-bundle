@@ -105,3 +105,16 @@
 {"hostname": "rrdp.lacnic.net", "port": 443, "af": 6, "action": "started", "ts": 1616661820, "msm_id": 29401562}
 {"hostname": "rpki-repo.registro.br", "port": 443, "af": 4, "action": "started", "ts": 1616661821, "msm_id": 29401563}
 {"hostname": "rpki-repo.registro.br", "port": 443, "af": 6, "action": "started", "ts": 1616661822, "msm_id": 29401564}
+{"hostname": "rpki.dataplane.org", "port": 443, "af": 4, "action": "started", "ts": 1620028246, "msm_id": 29967408}
+{"hostname": "rpki.dataplane.org", "port": 443, "af": 6, "action": "started", "ts": 1620028246, "msm_id": 29967409}
+{"hostname": "rpki.dataplane.org", "port": 873, "af": 4, "action": "started", "ts": 1620028247, "msm_id": 29967410}
+{"hostname": "rpki.dataplane.org", "port": 873, "af": 6, "action": "started", "ts": 1620028248, "msm_id": 29967411}
+{"hostname": "rpki.luys.cloud", "port": 443, "af": 4, "action": "started", "ts": 1620028251, "msm_id": 29967412}
+{"hostname": "rpki.luys.cloud", "port": 873, "af": 4, "action": "started", "ts": 1620028252, "msm_id": 29967413}
+{"hostname": "rpki-rrdp.mnihyc.com", "port": 443, "af": 6, "action": "started", "ts": 1620028253, "msm_id": 29967415}
+{"hostname": "rpki.blade.sh", "port": 443, "af": 4, "action": "started", "ts": 1620028254, "msm_id": 29967417}
+{"hostname": "rsync.rpki.blade.sh", "port": 873, "af": 4, "action": "started", "ts": 1620028255, "msm_id": 29967418}
+{"hostname": "rpki.as207960.net", "port": 443, "af": 4, "action": "started", "ts": 1620028257, "msm_id": 29967420}
+{"hostname": "rpki.as207960.net", "port": 443, "af": 6, "action": "started", "ts": 1620028258, "msm_id": 29967421}
+{"hostname": "rpki-repo.as207960.net", "port": 873, "af": 4, "action": "started", "ts": 1620028259, "msm_id": 29967423}
+{"hostname": "rpki-repo.as207960.net", "port": 873, "af": 6, "action": "started", "ts": 1620028260, "msm_id": 29967424}
