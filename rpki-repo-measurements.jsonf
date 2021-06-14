@@ -118,3 +118,11 @@
 {"hostname": "rpki.as207960.net", "port": 443, "af": 6, "action": "started", "ts": 1620028258, "msm_id": 29967421}
 {"hostname": "rpki-repo.as207960.net", "port": 873, "af": 4, "action": "started", "ts": 1620028259, "msm_id": 29967423}
 {"hostname": "rpki-repo.as207960.net", "port": 873, "af": 6, "action": "started", "ts": 1620028260, "msm_id": 29967424}
+{"hostname": "rpki.roa.net", "port": 443, "af": 4, "action": "started", "ts": 1623655804, "msm_id": 30848141}
+{"hostname": "rpki.roa.net", "port": 443, "af": 6, "action": "started", "ts": 1623655805, "msm_id": 30848142}
+{"hostname": "rpki.roa.net", "port": 873, "af": 4, "action": "started", "ts": 1623655805, "msm_id": 30848143}
+{"hostname": "rpki.roa.net", "port": 873, "af": 6, "action": "started", "ts": 1623655806, "msm_id": 30848144}
+{"hostname": "rpki.e15f.net", "port": 443, "af": 4, "action": "started", "ts": 1623655808, "msm_id": 30848145}
+{"hostname": "rpki-rsync.e15f.net", "port": 873, "af": 4, "action": "started", "ts": 1623655809, "msm_id": 30848146}
+{"hostname": "rpki.rpkitest.ml", "port": 443, "af": 4, "action": "started", "ts": 1623655813, "msm_id": 30848147}
+{"hostname": "rpki.rpkitest.ml", "port": 873, "af": 4, "action": "started", "ts": 1623655813, "msm_id": 30848148}
