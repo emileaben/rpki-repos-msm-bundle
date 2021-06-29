@@ -126,3 +126,11 @@
 {"hostname": "rpki-rsync.e15f.net", "port": 873, "af": 4, "action": "started", "ts": 1623655809, "msm_id": 30848146}
 {"hostname": "rpki.rpkitest.ml", "port": 443, "af": 4, "action": "started", "ts": 1623655813, "msm_id": 30848147}
 {"hostname": "rpki.rpkitest.ml", "port": 873, "af": 4, "action": "started", "ts": 1623655813, "msm_id": 30848148}
+{"hostname": "rpki.caramelfox.net", "port": 443, "af": 4, "action": "started", "ts": 1624958107, "msm_id": 31093686}
+{"hostname": "rpki.caramelfox.net", "port": 443, "af": 6, "action": "started", "ts": 1624958108, "msm_id": 31093687}
+{"hostname": "rpki.caramelfox.net", "port": 873, "af": 4, "action": "started", "ts": 1624958109, "msm_id": 31093688}
+{"hostname": "rpki.caramelfox.net", "port": 873, "af": 6, "action": "started", "ts": 1624958110, "msm_id": 31093689}
+{"hostname": "repo1.rpki.qs.nu", "port": 443, "af": 4, "action": "started", "ts": 1624958113, "msm_id": 31093690}
+{"hostname": "repo1.rpki.qs.nu", "port": 443, "af": 6, "action": "started", "ts": 1624958114, "msm_id": 31093691}
+{"hostname": "repo1.rpki.qs.nu", "port": 873, "af": 4, "action": "started", "ts": 1624958114, "msm_id": 31093692}
+{"hostname": "repo1.rpki.qs.nu", "port": 873, "af": 6, "action": "started", "ts": 1624958115, "msm_id": 31093693}
