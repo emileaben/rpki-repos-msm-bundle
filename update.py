@@ -12,8 +12,8 @@ from ripe.atlas.cousteau import (
     Traceroute,
 )
 
-#API_ENDPOINT="http://jdr.aws.nlnetlabs.nl/api/v1/uris"
-API_ENDPOINT="https://jdr.nlnetlabs.nl/api/v1/uris"
+#API_ENDPOINT="http://jdr-dev.aws.nlnetlabs.nl/api/v1/uris" # test
+API_ENDPOINT="https://jdr.nlnetlabs.nl/api/v1/uris" #production
 MSM_LOG="rpki-repo-measurements.jsonf"
 
 RSYNC_PORT=873

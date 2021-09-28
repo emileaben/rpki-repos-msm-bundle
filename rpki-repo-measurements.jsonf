@@ -134,3 +134,9 @@
 {"hostname": "repo1.rpki.qs.nu", "port": 443, "af": 6, "action": "started", "ts": 1624958114, "msm_id": 31093691}
 {"hostname": "repo1.rpki.qs.nu", "port": 873, "af": 4, "action": "started", "ts": 1624958114, "msm_id": 31093692}
 {"hostname": "repo1.rpki.qs.nu", "port": 873, "af": 6, "action": "started", "ts": 1624958115, "msm_id": 31093693}
+{"hostname": "rpki1.rpki-test.sit.fraunhofer.de", "port": 443, "af": 4, "action": "started", "ts": 1632834133, "msm_id": 32379649}
+{"hostname": "rpki1.rpki-test.sit.fraunhofer.de", "port": 873, "af": 4, "action": "started", "ts": 1632834134, "msm_id": 32379650}
+{"hostname": "andromeda.heficed.net", "port": 443, "af": 4, "action": "started", "ts": 1632834137, "msm_id": 32379651}
+{"hostname": "andromeda.heficed.net", "port": 873, "af": 4, "action": "started", "ts": 1632834138, "msm_id": 32379652}
+{"hostname": "rpki.akrn.net", "port": 443, "af": 4, "action": "started", "ts": 1632834141, "msm_id": 32379653}
+{"hostname": "rpki.akrn.net", "port": 873, "af": 4, "action": "started", "ts": 1632834142, "msm_id": 32379654}
